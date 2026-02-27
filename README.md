@@ -16,8 +16,7 @@
 
 ## 🌐 Live Preview
 
-- Live Demo: (Add your live website link)
-- Portfolio: (Add your portfolio link)
+- Live Demo: (https://fingerstotoesnailstudiobymoon.com/)
 
 ---
 
