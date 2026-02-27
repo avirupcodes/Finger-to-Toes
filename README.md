@@ -16,13 +16,15 @@
 
 ## 🌐 Live Preview
 
-- Live Demo: (https://fingerstotoesnailstudiobymoon.com/)
+🔗 Live Demo:  
+https://fingerstotoesnailstudiobymoon.com/
 
 ---
 
 ## ✨ Project Overview
 
-**Finger To Toes** is a modern nail art & beauty studio website developed using Laravel, Tailwind CSS, and Vite.  
+**Finger To Toes** is a modern nail art & beauty studio website developed using **Laravel**, **Tailwind CSS**, and **Vite**.
+
 The platform creates a premium digital presence for a salon by showcasing services, nail art galleries, pricing, and studio information through a clean and responsive interface.
 
 The project focuses on performance, elegant UI design, and scalable Laravel architecture suitable for real business deployment.
@@ -45,94 +47,128 @@ The project focuses on performance, elegant UI design, and scalable Laravel arch
 
 ## 🛠️ Tech Stack
 
-| Category | Technology |
-|----------|------------|
-| Backend  | Laravel |
-| Frontend | Blade + Tailwind CSS |
+| Category   | Technology |
+|------------|------------|
+| Backend    | Laravel |
+| Frontend   | Blade + Tailwind CSS |
 | Build Tool | Vite |
-| Languages | PHP, HTML5, JavaScript |
+| Languages  | PHP, HTML5, JavaScript |
 
 ---
 
 ## 📂 Folder Structure
+
+```
 finger-to-toes/
 │
 ├── app/
 ├── resources/
-│ ├── views/
-│ ├── css/
-│ └── js/
+│   ├── views/
+│   ├── css/
+│   └── js/
 ├── public/
 ├── routes/
 ├── database/
 ├── vite.config.js
 └── README.md
+```
 
 ---
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone Repository
+### 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/finger-to-toes.git
+```
 
-### 2. Navigate to Project
+### 2️⃣ Navigate to Project
 
+```bash
 cd finger-to-toes
+```
 
-### 3. Install Dependencies
+### 3️⃣ Install Dependencies
 
+```bash
 composer install
 npm install
+```
 
-### 4. Setup Environment
+### 4️⃣ Setup Environment
 
+```bash
 cp .env.example .env
 php artisan key:generate
+```
 
-### 5. Run Migration (Optional)
+### 5️⃣ Run Migration (Optional)
 
+```bash
 php artisan migrate
+```
 
-### 6. Start Development Server
+### 6️⃣ Start Development Server
 
+```bash
 npm run dev
 php artisan serve
+```
 
-### Open in browser:
+Open in browser:
 
+```
 http://127.0.0.1:8000
+```
 
-### 🏗️ Production Build
+---
 
+## 🏗️ Production Build
+
+```bash
 npm run build
+```
 
 ---
 
-### 🎨 Design Goals
-1.Premium salon branding
-2.Clean visual hierarchy
-3.Elegant UI aesthetics
-4.Smooth user experience
-5.High performance & responsiveness
+## 🎨 Design Goals
 
-### 🌟 Use Case
+1. Premium salon branding  
+2. Clean visual hierarchy  
+3. Elegant UI aesthetics  
+4. Smooth user experience  
+5. High performance & responsiveness  
+
+---
+
+## 🌟 Use Case
+
 Ideal for:
-Nail Art Studios
-Beauty Salons
-Makeup Artists
-Spa & Wellness Businesses
-Portfolio Demonstrations
+
+- Nail Art Studios
+- Beauty Salons
+- Makeup Artists
+- Spa & Wellness Businesses
+- Portfolio Demonstrations
 
 ---
 
-### 👨‍💻 Developer
-##Avirup
+## 👨‍💻 Developer
+
+**Avirup**  
 Full-Stack Developer
 
-LinkedIn: https://www.linkedin.com/in/codewithavirup/
-Email: avirup.webdev@gmail.com
+🔗 LinkedIn:  
+https://www.linkedin.com/in/codewithavirup/
 
-### ⭐ Support
+📧 Email:  
+avirup.webdev@gmail.com
+
+---
+
+## ⭐ Support
+
 If you like this project, please give it a ⭐ on GitHub!
+
+---
